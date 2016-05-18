@@ -27,7 +27,6 @@ setup(
         'ckanapi',
         'requests',
         'Polygon2',
-        'mysql-python',
         'nose',
         'coverage',
         'selenium',
